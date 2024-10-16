@@ -16,3 +16,8 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits 
     - scipy (version 1.14.0)
     - matplotlib (version 3.9.1)
     - networkx (version 3.3)
+
+## Installation Steps
+1. Download and Install Python
+
+   https://www.python.org/downloads/
