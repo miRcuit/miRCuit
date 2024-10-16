@@ -19,5 +19,10 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits 
 
 ## Installation Steps
 1. Download and Install Python
+   - Download the latest version of Python from the https://www.python.org/downloads/
+   - Run the downloaded file to install Python. Make sure to check the "Add Python to PATH" option during installation.
+2. Chose an IDE or Text Editor
+   - Select and install an IDE or text editor, such as Visual Studio Code, PyCharm, or Jupyter Notebook.
+   - Example: Download Visual Studio Code from https://code.visualstudio.com
+3. 
 
-   https://www.python.org/downloads/
