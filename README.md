@@ -1,4 +1,9 @@
-## Hi there 👋
+# miRCuit : Circuit-Based Analysis Tool 
+
+
+
+
+Hi there 👋
 
 <!--
 **miRcuit/miRCuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
