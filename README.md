@@ -8,7 +8,7 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits 
 - As a result, it offers users different types of regulatory circuits related to their research topics.
 
 ## Requirements
-To run this program, you will need the following software and libraries
+### To run this program, you will need the following software and libraries:
     - Python 3.x
     - pandas (version 2.2.2)
     - PyQt5 (version 5.15.11)
