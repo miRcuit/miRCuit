@@ -5,6 +5,7 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits 
 ## Features
 - The program can be utilized by transferring the .py file to an appropriate execution environment, such as VS Code, Jupyter Notebook, etc.
 - It is accessible to researchers across various fields and operates by loading files containing expression values of mRNA, miRNA, lncRNA, and TF molecules into the system
+- As a result, it offers users different types of regulatory circuits related to their research topics.
 
 ## Requirements
 To run this program, you will need the following software and libraries: 
