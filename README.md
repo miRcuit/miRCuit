@@ -24,5 +24,16 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits 
 2. Chose an IDE or Text Editor
    - Select and install an IDE or text editor, such as Visual Studio Code, PyCharm, or Jupyter Notebook.
    - Example: Download Visual Studio Code from https://code.visualstudio.com
-3. 
-
+3. Install Required Libraries
+   - Open the terminal or command prompt.
+   - Navigate to your project directory (e.g., cd your_project).
+   - Use the following command to install the required libraries (The requirement.txt file is available):
+     pip install -r requirements.txt
+   - If you are unable to perform this operation, please download each of the libraries mentioned above using the following command through the VS Code terminal.
+     pip install <library_name>
+4. Download the Program File
+   - Download the .py file of the program or clone the source code.
+5. Run the Program:
+  - Run the code using Visual Studio Code or another IDE.
+6. Load Data Files
+  - Upload the necessary data files containing mRNA, miRNA, lncRNA, and TF molecules for the program to function. Check the program documentation for the required format and how to upload these files.
