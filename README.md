@@ -27,7 +27,8 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits.
 3. Install Required Libraries
    - Open the terminal or command prompt.
    - Navigate to your project directory (e.g., cd your_project).
-   - Use the following command to install the required libraries (The requirement.txt file is available): 'pip install -r requirements.txt'
+   - Use the following command to install the required libraries (The requirement.txt file is available):
+'pip install -r requirements.txt'
    - If you are unable to perform this operation, please download each of the libraries mentioned above using the following command through the VS Code terminal: pip install <library_name>
 4. Download the Program File
    - Download the .py file of the program or clone the source code.
