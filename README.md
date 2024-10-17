@@ -49,7 +49,7 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 
 ### _Important Notes About Uploaded File Formats:_ 
 * The files you upload must be in **CSV format** and consist of two columns. The first column should contain the names of your molecules under the heading "**Annotation**," and the second column should include the fold changes under the heading "**log2FoldChange**."
-* Before uploading your files, please review the "_Example_Files_" under the miRCuit repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). 
+* Before uploading your files, please review the "_Example_Files_" under the miRCuit repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). If you wish, you can also run the program using the example files.
 * Please ensure that the capitalization and spacing match the example exactly.
 
 ### Analysis Outputs
