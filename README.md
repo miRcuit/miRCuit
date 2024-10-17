@@ -53,3 +53,5 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 5. Make sure all the boxes are checked, then click the "Start Analysis" button.
 
 ### Analysis Outputs
+You will receive 3 outputs as a result of your analysis:
+    1. 
