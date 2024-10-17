@@ -42,10 +42,13 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 
 ## Program Usage Steps
 1. Start the _miRCuit_ program in Visual Studio Code (or another IDE such as PyCharm, Jupyter Notebook, etc.).
-2.  Upload your mRNA, miRNA, lncRNA, and TF files that you want to analyze to the opened user interface.
+2. Upload your mRNA, miRNA, lncRNA, and TF expression files that you want to analyze to the opened user interface.
 ### _Important Notes About Uploaded File Formats:_ 
 * The files you upload must be in #CSV format# and consist of two columns. The first column should contain the names of your molecules under the heading "**Annotation**," and the second column should include the fold changes under the heading "**log2FoldChange**."
-* Before uploading your files, please review the "_Example Files_" under the _miRCuit_ repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). 
+* Before uploading your files, please review the "_Example Files_" under the miRCuit repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). 
 * Please ensure that the capitalization and spacing match the example exactly.
 
-
+3. Determine a fold change value for each expression file you upload (mRNA, miRNA, lncRNA, and TF). This value represents the minimum fold change you wish to observe between the two groups you are comparing in your research (tumor/normal, treated/untreated).
+4. If you want to perform enrichment analysis (GSEA) on the genes resulting from the analysis, you must check this option. By default, the program is set to "Do not perform GSEA".
+5. Make sure all the boxes are checked, then click the "Start Analysis" button.
+6. 
