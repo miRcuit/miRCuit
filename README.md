@@ -28,8 +28,9 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits.
    - Open the terminal or command prompt.
    - Navigate to your project directory (e.g., cd your_project).
    - Use the following command to install the required libraries (The requirement.txt file is available):
-     'pip install -r requirements.txt'
-   - If you are unable to perform this operation, please download each of the libraries mentioned above using the following command through the VS Code terminal: pip install <library_name>
+   -     pip install -r requirements.txt
+   - If you are unable to perform this operation, please download each of the libraries mentioned above using the following command through the VS Code terminal:
+   -     pip install <library_name>
 4. Download the Program File
    - Download the .py file of the program or clone the source code.
 5. Run the Program:
@@ -47,15 +48,15 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 5. Make sure all the boxes are checked, then click the "Start Analysis" button.
 
 ### _Important Notes About Uploaded File Formats:_ 
-* The files you upload must be in #CSV format# and consist of two columns. The first column should contain the names of your molecules under the heading "**Annotation**," and the second column should include the fold changes under the heading "**log2FoldChange**."
+* The files you upload must be in **CSV format** and consist of two columns. The first column should contain the names of your molecules under the heading "**Annotation**," and the second column should include the fold changes under the heading "**log2FoldChange**."
 * Before uploading your files, please review the "_Example_Files_" under the miRCuit repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). 
 * Please ensure that the capitalization and spacing match the example exactly.
 
 ### Analysis Outputs
 As a result of your analysis, you will receive three outputs: Circuits, molecular interactions, and GSEA results.
-* Circuits: This section provides all the circuits obtained from your analysis. It includes _the eight different types of mRNA, miRNA, lncRNA, and TF regulatory circuits_ mentioned above, as well as _miRNA-dependent lncRNA regulatory circuits_ and _TF-dependent lncRNA regulatory circuits_, all organized in separate folders. Additionally, the outputs are provided in a visualized TXT format.
-* Molecular interactions: The molecular interactions provided in visualized TXT format are presented in a tabular format in CSV, ready for further analysis.
-* GSEA Results: This section provides a tabular format of the most enriched pathways resulting from the Gene Enrichment Analysis (GSEA). Additionally, it includes dot plots and network visuals of the pathways.
+* **Circuit**: This section provides all the circuits obtained from your analysis. It includes _the eight different types of mRNA, miRNA, lncRNA, and TF regulatory circuits_ mentioned above, as well as _miRNA-dependent lncRNA regulatory circuits_ and _TF-dependent lncRNA regulatory circuits_, all organized in separate folders. Additionally, the outputs are provided in a visualized TXT format.
+* **Molecular interactions**: The molecular interactions provided in visualized TXT format are presented in a tabular format in CSV, ready for further analysis.
+* **GSEA Results**: This section provides a tabular format of the most enriched pathways resulting from the Gene Enrichment Analysis (GSEA). Additionally, it includes dot plots and network visuals of the pathways.
 
 ## Contributing
 If you would like to contribute to the project or have suggestions, please send an email to begumkaraoglu93@gmail.com.
