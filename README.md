@@ -44,7 +44,7 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 1. Start the _miRCuit_ program in Visual Studio Code (or another IDE such as PyCharm, Jupyter Notebook, etc.).
 2.  Upload your mRNA, miRNA, lncRNA, and TF files that you want to analyze to the opened user interface.
 ### _Important Notes:_ 
-* The files you upload must be in CSV format and consist of two columns. The first column should contain the names of your molecules under the heading "Annotation," and the second column should include the fold changes under the heading "log2FoldChange." Before uploading your files, please review the "Example Files" under the _miRCuit_ repository or check the "Examine the example file format" section in the interface (The p-value column is not required). 
+* The files you upload must be in #CSV format# and consist of two columns. The first column should contain the names of your molecules under the heading "#Annotation#," and the second column should include the fold changes under the heading "#log2FoldChange#." Before uploading your files, please review the "Example Files" under the _miRCuit_ repository or check the "Examine the example file format" section in the interface (The p-value column is not required). 
 * Please ensure that the capitalization and spacing match the example exactly.
 
 
