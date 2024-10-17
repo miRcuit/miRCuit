@@ -38,7 +38,7 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits 
 6. Load Data Files
    - Upload the necessary data files containing mRNA, miRNA, lncRNA, and TF molecules for the program to function.
   
-Check the 'Program Usage Steps' section to learn about the required formats of these files and how to upload them. 
+_Check the 'Program Usage Steps' section to learn about the required formats of these files and how to upload them._
 
 ## Program Usage Steps
 
