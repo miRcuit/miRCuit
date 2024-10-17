@@ -1,9 +1,9 @@
 # miRCuit : A Regulatory Circuit Analysis Tool 
 
-miRCuit is a circuit analysis program designed to construct regulatory circuits based on Python. The program is developed as a .py (Python) file and can be executed in an environment such as Visual Studio Code.
+miRCuit is a circuit analysis program designed to construct regulatory circuits. It presents a comprehensive framework for analyzing regulatory networks, specifically presenting a holistic approach to mRNA-miRNA-lncRNA-TF quadruple circuits. miRCuit has strategies that define all binary interactions to construct circuits, thereby presenting all relationships to users as intermediate outputs, thus providing them with different circuit types ranging from Type 1 to Type 8. Additionally, miRCuit offers users two special regulatory circuits: miRNA-dependent lncRNA regulatory circuits and TF-dependent lncRNA regulatory circuits. Throughout this process, it utilizes data obtained from 11 different databases (**_miRcode, DIANA TarBase, LncCeRBase, LncTarD, miRDB, miRTarBase, TFLink, TRRUST, RNA Interactome Database, TargetScan and TransmiR_**) to provide a comprehensive analysis.
 
 ## Features
-- The program can be utilized by transferring the .py file to an appropriate execution environment, such as VS Code, Jupyter Notebook, etc.
+- miRCuit is a circuit analysis program designed to construct regulatory circuits using Python. Developed as a .py file, it can be executed in environments, such as Visual Studio Code, Jupyter Notebook, etc. 
 - It is accessible to researchers across various fields and operates by loading files containing expression values of mRNA, miRNA, lncRNA, and TF molecules into the system
 - As a result, it offers users different types of regulatory circuits related to their research topics.
 
@@ -55,5 +55,6 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 ### Analysis Outputs
 As a result of your analysis, you will receive three outputs: Circuits, molecular interactions, and GSEA results.
 * Circuits: This section provides all the circuits obtained from your analysis. It includes _the eight different types of mRNA, miRNA, lncRNA, and TF regulatory circuits_ mentioned above, as well as _miRNA-dependent lncRNA regulatory circuits_ and _TF-dependent lncRNA regulatory circuits_, all organized in separate folders. Additionally, the outputs are provided in a visualized TXT format.
-* Molecular interactions: 
+* Molecular interactions: The molecular interactions provided in visualized TXT format are presented in a tabular format in CSV, ready for further analysis.
+* GSEA Results: This section provides a tabular format of the most enriched pathways resulting from the Gene Enrichment Analysis (GSEA). Additionally, it includes dot plots and network visuals of the pathways.
 
