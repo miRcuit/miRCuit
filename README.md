@@ -58,3 +58,8 @@ As a result of your analysis, you will receive three outputs: Circuits, molecula
 * Molecular interactions: The molecular interactions provided in visualized TXT format are presented in a tabular format in CSV, ready for further analysis.
 * GSEA Results: This section provides a tabular format of the most enriched pathways resulting from the Gene Enrichment Analysis (GSEA). Additionally, it includes dot plots and network visuals of the pathways.
 
+## Contributing
+If you would like to contribute to the project or have suggestions, please send an email to begumkaraoglu93@gmail.com.
+
+## 
+
