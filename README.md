@@ -54,5 +54,6 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 
 ### Analysis Outputs
 As a result of your analysis, you will receive three outputs: Circuits, molecular interactions, and GSEA results.
-* Circuits: This section provides all the circuits obtained from your analysis. It includes regulatory circuits related to the _eight different types_ of mRNA, miRNA, lncRNA, and TF mentioned above, as well as _miRNA-dependent lncRNA regulatory circuits_ and _TF-dependent lncRNA regulatory circuits_.
+* Circuits: This section provides all the circuits obtained from your analysis. It includes _the eight different types of mRNA, miRNA, lncRNA, and TF regulatory circuits_ mentioned above, as well as _miRNA-dependent lncRNA regulatory circuits_ and _TF-dependent lncRNA regulatory circuits_, all organized in separate folders. Additionally, the outputs are provided in a visualized TXT format.
+* Molecular interactions: 
 
