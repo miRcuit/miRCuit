@@ -62,5 +62,5 @@ As a result of your analysis, you will receive three outputs: Circuits, molecula
 If you would like to contribute to the project or have suggestions, please send an email to begumkaraoglu93@gmail.com.
 
 ## License
-This project is licensed under the GPL-3.0 license - see the ./LICENSE file for details.
+This project is licensed under the GPL-3.0 license - see the see the [LICENSE](./LICENSE) file for details.
 
