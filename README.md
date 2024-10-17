@@ -51,4 +51,5 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 3. Determine a fold change value for each expression file you upload (mRNA, miRNA, lncRNA, and TF). This value represents the minimum fold change you wish to observe between the two groups you are comparing in your research (tumor/normal, treated/untreated).
 4. If you want to perform enrichment analysis (GSEA) on the genes resulting from the analysis, you must check this option. By default, the program is set to "Do not perform GSEA".
 5. Make sure all the boxes are checked, then click the "Start Analysis" button.
-6. 
+
+### Analysis Outputs
