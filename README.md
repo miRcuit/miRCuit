@@ -30,7 +30,7 @@ miRCuit is a circuit analysis program designed to construct regulatory circuits.
    - Use the following command to install the required libraries (The requirement.txt file is available):
      pip install -r requirements.txt
    - If you are unable to perform this operation, please download each of the libraries mentioned above using the following command through the VS Code terminal.
-     pip install <library_name>
+pip install <library_name>
 4. Download the Program File
    - Download the .py file of the program or clone the source code.
 5. Run the Program:
@@ -49,7 +49,7 @@ _Check the 'Program Usage Steps' section to learn about the required formats of 
 
 ### _Important Notes About Uploaded File Formats:_ 
 * The files you upload must be in #CSV format# and consist of two columns. The first column should contain the names of your molecules under the heading "**Annotation**," and the second column should include the fold changes under the heading "**log2FoldChange**."
-* Before uploading your files, please review the "_Example Files_" under the miRCuit repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). 
+* Before uploading your files, please review the "_Example_Files_" under the miRCuit repository or check the "_Examine the example file format_" section in the interface (The p-value column is not required). 
 * Please ensure that the capitalization and spacing match the example exactly.
 
 ### Analysis Outputs
