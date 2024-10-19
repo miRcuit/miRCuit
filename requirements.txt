@@ -1,0 +1,6 @@
+pandas
+PyQt5
+gseapy
+scipy
+matplotlib
+networkx
